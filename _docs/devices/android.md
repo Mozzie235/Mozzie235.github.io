@@ -2,7 +2,6 @@
 title: Android
 category: Devices
 order: 2
-tag：andriod
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.
